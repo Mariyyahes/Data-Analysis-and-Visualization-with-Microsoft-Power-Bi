@@ -2,11 +2,14 @@
 
 <br>
 This course focuses on integrating and analyzing data using Power BI. It covers combining multiple data sources, cleaning and restructuring data, and creating efficient data models for reporting. Key topics include Power Query for ETL, foundational data modeling principles, introductory DAX, and troubleshooting techniques. The course includes three hands-on projects:
+<br>
 
 - **Data Model for Seven Sages Company (SSTC)**
 - **Power BI Report for Waggle**
 - **Market Analysis for National Clothing Chain**
 
+<br>
+<br>
 
 ### Project 1: Data Model for Seven Sages Company (SSTC)  
 ____
