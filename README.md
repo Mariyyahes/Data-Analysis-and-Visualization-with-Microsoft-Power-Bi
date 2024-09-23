@@ -1,9 +1,11 @@
 # Data Analysis and Visualization with Microsoft Power BI BSF  
 
 ### Project 1: Data Model for Seven Sages Company (SSTC)  
+____
 - **Data Transformation**: Cleaned and organized data using Power Query.  
 - **Data Model**: Established relationships between fact and dimension tables (currency, customer, product, and date).  
-- **DAX Measures**: Created key performance indicators (Sales in USD/CAD, Gross Profit Margin, and Unit Sales).
+- **DAX Measures**: Created key performance indicators (Sales in USD/CAD, Gross Profit Margin, and Unit Sales). <br>
+
 ![Project 1 - Monthly Sales Logs](https://raw.githubusercontent.com/Mariyyahes/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi/main/Project%201%20-%20Create%20a%20Data%20Model%20for%20SSTC/Monthly%20Sales%20Logs/project1.png)
 
   
