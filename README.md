@@ -9,7 +9,6 @@ This course focuses on integrating and analyzing data using Power BI. It covers 
 - **Market Analysis for National Clothing Chain**
 
 <br>
-<br>
 
 ### Project 1: Data Model for Seven Sages Company (SSTC)  
 ____
