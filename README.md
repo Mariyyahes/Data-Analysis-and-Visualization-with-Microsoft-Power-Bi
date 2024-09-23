@@ -12,8 +12,12 @@
 - **Visualizations**: Included bar charts, line charts, scatter plots, slicers, and custom themes.  
 - **Interactivity**: Utilized bookmarks, slicers, and buttons for enhanced navigation and filtering.
 
+  ![Project 2](https://github.com/Mariyyahes/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi/blob/main/Project%202%20-%20Building%20a%20PowerBI%20Report%20for%20Waggle/Project2_Dashboard1.png)
+
 
 ### Project 3: Market Analysis for National Clothing Chain  
 - **Data Cleaning**: Used Power Query to format and un-pivot purchase data.  
 - **DAX Formulas**: Generated income-based histograms and product recommendations.  
 - **Visualizations**: Applied heatmaps, scatter plots, and linear regression to analyze income distribution and sales trends.
+
+![Project 3](https://github.com/Mariyyahes/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi/blob/main/Project%203%20-%20Market%20Analysis%20Report%20for%20National%20Clothing%20Chain/Project3_Dashboard1.png)
