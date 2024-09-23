@@ -1,7 +1,7 @@
 # Data Analysis and Visualization with Microsoft Power BI BSF  
 
 <br>
-<br>
+
 ### Project 1: Data Model for Seven Sages Company (SSTC)  
 ____
 - **Data Transformation**: Cleaned and organized data using Power Query.  
@@ -13,7 +13,7 @@ ____
 
 <br>
 <br>
-<br>
+
 ### Project 2: Power BI Report for Waggle  
 ____
 - **Analysis**: Compared daily steps and ratings of Lapdog vs. Lapcat.  
