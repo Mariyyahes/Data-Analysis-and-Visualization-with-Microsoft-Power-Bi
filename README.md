@@ -5,8 +5,7 @@
 - **Data Model**: Established relationships between fact and dimension tables (currency, customer, product, and date).  
 - **DAX Measures**: Created key performance indicators (Sales in USD/CAD, Gross Profit Margin, and Unit Sales).
   
-![Waggle Report](https://github.com/Mariyyahes/BreadcrumbsData-Analysis-and-Visualization-with-Microsoft-Power-Bi
-/Project 1 - Create a Data Model for SSTC/Monthly Sales Logs/project1.png)
+https://github.com/Mariyyahes/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi/blob/main/Project%201%20-%20Create%20a%20Data%20Model%20for%20SSTC/Monthly%20Sales%20Logs/project1.png
 
 
 
