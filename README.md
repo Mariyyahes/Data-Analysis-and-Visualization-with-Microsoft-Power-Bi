@@ -6,7 +6,7 @@
 - **Data Model**: Established relationships between fact and dimension tables (currency, customer, product, and date).  
 - **DAX Measures**: Created key performance indicators (Sales in USD/CAD, Gross Profit Margin, and Unit Sales).
   
-![SSTC Data Model](Project 1 - Create a Data Model for SSTC/Monthly Sales Logs/project1.png)
+Project 1 - Create a Data Model for SSTC/Monthly Sales Logs/project1.png
 
 
 
